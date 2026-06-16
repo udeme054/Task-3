@@ -41,3 +41,7 @@ This repository contains the SQL scripts and data analysis workflows developed d
 ![alt text](https://github.com/udeme054/Task-3/blob/0c5958fb4f56c3d72294c2ce94b6b59023562000/TOTAL%20ORDER%20TOTAL%20REVENUE%20AVERAGE%20ORDER%20REVENUE%20MAX%20MIN%20UNIT%20PRICE%20TOGETHER.jpg)
 6. WHERE AND ORDER BY ANALYSIS OUTPUT
 ![alt text](https://github.com/udeme054/Task-3/blob/ba18358e5c84dc85e6a668995535206eb6841240/WHERE%20AND%20ORDER%20ANALYSIS.jpg)
+
+## How to Run / View the Project
+
+SQL Queries: Open and execute the .'sql' script in the "SQL Data Analysis project 3" folder using SSMS or any text editor
