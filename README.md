@@ -27,3 +27,6 @@ This repository contains the SQL scripts and data analysis workflows developed d
 1. GROUP BY AND ORDER BY ANALYSIS OUTPUT
 
 ![alt text](https://github.com/udeme054/Task-3/blob/55a6f35404a7b1d332abae444506c431652c1c3c/GROUP%20BY%20AND%20ORDER%20BY%20ANALSIS.jpg)
+
+2. SELECT, GROUP AND WHERE ANALYSIS OUTPUT
+![alt text](https://github.com/udeme054/Task-3/blob/f0773cab27d682c2831d819b4cd1e5b8e54a5056/SELECT%2C%20GROUP%20AND%20WHERE%20ANALYSIS.png)
