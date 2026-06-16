@@ -24,3 +24,6 @@ This repository contains the SQL scripts and data analysis workflows developed d
 3. Query Performance: Successfully optimized column scanning and table aliases over 1,200 records, proving that solid data infrastructure starts with clean query formatting.
 
 # PROJECT GALLERY
+1. GROUP BY AND ORDER BY ANALYSIS OUTPUT
+
+![alt text](https://github.com/udeme054/Task-3/blob/55a6f35404a7b1d332abae444506c431652c1c3c/GROUP%20BY%20AND%20ORDER%20BY%20ANALSIS.jpg)
