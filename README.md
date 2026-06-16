@@ -36,3 +36,6 @@ This repository contains the SQL scripts and data analysis workflows developed d
 
 4. Total Order, Total Revenue, Average Order revenue MAX & MIN UNIT PRICE CONTD.
 ![alt text](https://github.com/udeme054/Task-3/blob/4b40b4db7d3114076f1bef4c6a89229b46d2f116/TOTAL%20ORDER%20TOTAL%20REVENUE%20AVERAGE%20ORDER%20REVENUE%20MAX%20MIN%20UNIT%20PRICE%20CONTD.jpg)
+
+5. Total Order, Total revenue, Total quantity, Total and Max unit price output Using SELECT QUERY
+![alt text](https://github.com/udeme054/Task-3/blob/0c5958fb4f56c3d72294c2ce94b6b59023562000/TOTAL%20ORDER%20TOTAL%20REVENUE%20AVERAGE%20ORDER%20REVENUE%20MAX%20MIN%20UNIT%20PRICE%20TOGETHER.jpg)
