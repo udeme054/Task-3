@@ -30,3 +30,6 @@ This repository contains the SQL scripts and data analysis workflows developed d
 
 2. SELECT, GROUP AND WHERE ANALYSIS OUTPUT
 ![alt text](https://github.com/udeme054/Task-3/blob/f0773cab27d682c2831d819b4cd1e5b8e54a5056/SELECT%2C%20GROUP%20AND%20WHERE%20ANALYSIS.png)
+
+3. SORTING PRODUCTS BY HIGHEST TOTAL PRICE
+![alt text](https://github.com/udeme054/Task-3/blob/42115be0bfca3bbd44c8c054771f71cee56e54cb/SORTING%20PRODUCTS%20BY%20HIGHEST%20TOTAL%20PRICE.jpg)
